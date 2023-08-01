@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/trangpham9327/udacity/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/trangpham9327/udacity/tree/main)
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**

@@ -18,6 +18,6 @@ EB URL: `http://udagram-api-dev.us-east-1.elasticbeanstalk.com/`
 The frontend application is deployed using AWS S3 Bucket. The bundled assets are uploaded to an S3 bucket and that
 bucket is made publicly readable.
 
-Bucket URL: `http://udagram-trangpx.s3-website-us-east-1.amazonaws.com/home`
+Hosting web static URL: `http://udagram-trangpx.s3-website-us-east-1.amazonaws.com/home`
 
-End users can access the application from the Bucket URL.
+End users can access the application from the Hosting web static URL.
